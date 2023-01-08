@@ -10,7 +10,7 @@ Created clone of a Blogging Website
 
 
 ## Contact Page
-![This is the Contact Page](https://github.com/AdyaTech/Blogging-Website-Clone/blob/main/Contact%20Page/Contact%20page.png)
+![This is the Contact Page](https://github.com/AdyaTech/Blogging-Website-Clone/blob/main/Contact%20Page/Contact%20us%20Page.png)
 
 
 ## Privacy Policy Page
