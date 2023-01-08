@@ -1,4 +1,4 @@
-# Blogging-Website-Clone
+# Blog-Website-Clone
 Created clone of a Blogging Website
 
 ## Home Page
