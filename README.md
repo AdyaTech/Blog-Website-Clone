@@ -1,5 +1,5 @@
 # Blog-Website-Clone
-Created clone of a Blogging Website
+Created clone of a Blog Website
 
 ## Home Page
 ![This is the Home Page output](https://github.com/AdyaTech/Blogging-Website-Clone/blob/main/Home%20Page/Home%20page.png)
